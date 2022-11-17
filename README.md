@@ -1,6 +1,8 @@
-# Next.js + Tailwind CSS Example
+# Spotify2
+A Spotify Clone built using Next.js and Spotify Developer API, which pulls the user playlist and other data, along with Spotify authentication, state managed using Recoil, and Tailwind CSS for responsive and easy styling
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+<img src="Screenshots/spotify.PNG" />
+<img src="Screenshots/login.PNG" />
 
 ## Deploy your own
 
