@@ -1,5 +1,5 @@
 # Spotify2
-A Spotify Clone built using Next.js and Spotify Developer API, which pulls the user playlist and other data, along with Spotify authentication, state managed using Recoil, and Tailwind CSS for responsive and easy styling
+🎵A Spotify Clone built using Next.js and Spotify Developer API, which pulls the user playlist and other data, along with Spotify authentication, state managed using Recoil, and Tailwind CSS for responsive and easy styling, with custom hooks for easily fetching data🎵
 
 <img src="Screenshots/spotify.PNG" />
 <img src="Screenshots/login.PNG" />
